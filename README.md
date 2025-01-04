@@ -1,0 +1,1 @@
+This repository contains a simple Julia function with a bug related to handling zero input. The bug is that when the input `x` is zero, the function doesn't return zero as expected.  The solution demonstrates how to correctly handle this edge case.
